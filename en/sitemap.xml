@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://braffdev.com/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://braffdev.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://braffdev.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="en"
                 href="https://braffdev.com/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://braffdev.com/gasprices/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="en"
                 href="https://braffdev.com/gasprices/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://braffdev.com/gasprices/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="en"
                 href="https://braffdev.com/gasprices/privacy-policy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://braffdev.com/imprint/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,19 @@
                 hreflang="en"
                 href="https://braffdev.com/imprint/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://braffdev.com/steganofy/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://braffdev.com/de/steganofy/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://braffdev.com/steganofy/privacy-policy/"
+                />
+  </url><url>
     <loc>https://braffdev.com/steganofy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +85,7 @@
                 hreflang="en"
                 href="https://braffdev.com/steganofy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://braffdev.com/steganofy/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -99,5 +98,4 @@
                 href="https://braffdev.com/steganofy/faq/"
                 />
   </url>
-  
 </urlset>
