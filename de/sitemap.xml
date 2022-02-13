@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://braffdev.com/de/</loc>
+    <loc>https://braffdev.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://braffdev.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
                 href="https://braffdev.com/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/de/"
-                />
   </url><url>
-    <loc>https://braffdev.com/de/gasprices/privacy-policy/</loc>
+    <loc>https://braffdev.com/gasprices/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://braffdev.com/en/gasprices/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
                 href="https://braffdev.com/gasprices/privacy-policy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/de/gasprices/privacy-policy/"
-                />
   </url><url>
-    <loc>https://braffdev.com/de/steganofy/privacy-policy/</loc>
+    <loc>https://braffdev.com/steganofy/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://braffdev.com/en/steganofy/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
                 href="https://braffdev.com/steganofy/privacy-policy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/de/steganofy/privacy-policy/"
-                />
   </url><url>
-    <loc>https://braffdev.com/de/imprint/</loc>
+    <loc>https://braffdev.com/imprint/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://braffdev.com/en/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
                 href="https://braffdev.com/imprint/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/de/imprint/"
-                />
   </url><url>
-    <loc>https://braffdev.com/de/contact/</loc>
+    <loc>https://braffdev.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://braffdev.com/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
                 href="https://braffdev.com/contact/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/de/contact/"
-                />
   </url><url>
-    <loc>https://braffdev.com/de/gasprices/</loc>
+    <loc>https://braffdev.com/gasprices/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://braffdev.com/en/gasprices/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
                 href="https://braffdev.com/gasprices/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/de/gasprices/"
-                />
   </url><url>
-    <loc>https://braffdev.com/de/steganofy/</loc>
+    <loc>https://braffdev.com/steganofy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://braffdev.com/en/steganofy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
                 href="https://braffdev.com/steganofy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/de/steganofy/"
-                />
   </url><url>
-    <loc>https://braffdev.com/de/steganofy/faq/</loc>
+    <loc>https://braffdev.com/steganofy/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://braffdev.com/steganofy/faq/"
+                href="https://braffdev.com/en/steganofy/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://braffdev.com/de/steganofy/faq/"
+                href="https://braffdev.com/steganofy/faq/"
                 />
   </url>
 </urlset>
