@@ -38,6 +38,18 @@
                 href="https://braffdev.com/en/gasprices/"
                 />
   </url><url>
+    <loc>https://braffdev.com/en/gasprices/faq/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://braffdev.com/gasprices/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://braffdev.com/en/gasprices/faq/"
+                />
+  </url><url>
     <loc>https://braffdev.com/en/gasprices/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
