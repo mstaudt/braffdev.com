@@ -164,6 +164,29 @@ Thank you for your interest in our app &ldquo;Steganofy&rdquo;. Protecting your 
     };
 
 </script>
-</body>
+
+<script type="module">
+  
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.9.4/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.9.4/firebase-analytics.js";
+  
+  
+
+  
+  
+  const firebaseConfig = {
+    apiKey: "AIzaSyD3J63t7RWGlLjyqSSFM-Fo7EM1alu8IiY",
+    authDomain: "braffdev-website.firebaseapp.com",
+    projectId: "braffdev-website",
+    storageBucket: "braffdev-website.appspot.com",
+    messagingSenderId: "987416821694",
+    appId: "1:987416821694:web:4cf04aba93b3073f3b43ef",
+    measurementId: "G-V9QN9H57FQ"
+  };
+
+  
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script></body>
 
 </html>
