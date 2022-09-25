@@ -26,6 +26,18 @@
                 href="https://braffdev.com/en/contact/"
                 />
   </url><url>
+    <loc>https://braffdev.com/en/gasprices/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://braffdev.com/gasprices/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://braffdev.com/en/gasprices/privacy-policy/"
+                />
+  </url><url>
     <loc>https://braffdev.com/en/gasprices/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,18 +60,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://braffdev.com/en/gasprices/faq/"
-                />
-  </url><url>
-    <loc>https://braffdev.com/en/gasprices/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://braffdev.com/gasprices/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://braffdev.com/en/gasprices/privacy-policy/"
                 />
   </url><url>
     <loc>https://braffdev.com/en/imprint/</loc>
