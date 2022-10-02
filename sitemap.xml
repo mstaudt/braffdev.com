@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://braffdev.com/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://braffdev.com/de/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://braffdev.com/gasprices/faq/</loc>
+  </url><url>
+    <loc>https://braffdev.com/steganofy/faq/</loc>
+  </url><url>
+    <loc>https://braffdev.com/gasprices/privacy-policy/</loc>
+  </url><url>
+    <loc>https://braffdev.com/steganofy/privacy-policy/</loc>
+  </url><url>
+    <loc>https://braffdev.com/en/gasprices/faq/</loc>
+  </url><url>
+    <loc>https://braffdev.com/</loc>
+  </url><url>
+    <loc>https://braffdev.com/imprint/</loc>
+  </url><url>
+    <loc>https://braffdev.com/contact/</loc>
+  </url><url>
+    <loc>https://braffdev.com/gasprices/</loc>
+  </url><url>
+    <loc>https://braffdev.com/steganofy/</loc>
+  </url>
+</urlset>
